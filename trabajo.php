@@ -7,9 +7,9 @@
 </head>
 <body>
     <p>Hola  mundo</p>
-    <p>Sebastian</p>
+    <p>Sebastian Orozco</p>
     <p>Odwell</p>
     <p>Misael</p>
-    <p>Danny</p>
+    <p>Danny Toro</p>
 </body>
 </html>
